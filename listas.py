@@ -80,6 +80,8 @@ print(min(to_do_list2))
     Por outro lado, se tiver 'Wash Car', 'Puck Up Kids', 'Cash Check'
     o max é 'Wash Car' e o min é 'Cash Check'. 
 
+só testeando aqui 
+
     Investigar isso depois...    
 '''
 
